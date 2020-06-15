@@ -14,7 +14,14 @@
 {
     color: #c0ded8;
 }
-
+.resume-link
+{
+    color: #c0ded8;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 .profile-pic{
     border-radius: 50%;
     box-shadow: #00231c 2px 5px 5px;
